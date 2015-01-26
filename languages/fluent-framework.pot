@@ -1,0 +1,1051 @@
+# Copyright (C) 2014 No Half Pixels Ltd
+# This file is distributed under the same license as the Fluent Framework package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fluent Framework 1.0.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/fluent-framework\n"
+"POT-Creation-Date: 2014-08-07 22:27:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.5\n"
+
+#: classes/class.fluent-options-meta.php:172
+#: classes/class.fluent-options-page.php:264
+msgid "Dev Mode"
+msgstr ""
+
+#: classes/class.fluent-options-page.php:105
+msgid "Save Options"
+msgstr ""
+
+#: classes/class.fluent-options-page.php:106
+msgid "Settings saved."
+msgstr ""
+
+#: classes/class.fluent-options-page.php:107
+msgid "Settings reset to defaults."
+msgstr ""
+
+#: classes/class.fluent-options-page.php:256
+msgid "Details"
+msgstr ""
+
+#: classes/class.fluent-options-page.php:362
+msgid "Never"
+msgstr ""
+
+#: classes/class.fluent-options-page.php:379
+msgid "Restore Defaults"
+msgstr ""
+
+#: classes/class.fluent-options-taxonomy.php:245
+#: classes/class.fluent-options-user.php:255
+#: classes/class.fluent-options.php:735 classes/class.fluent-options.php:777
+#: classes/fields/class.fluent-group-field.php:189
+#: classes/fields/class.fluent-group-field.php:212
+#: classes/fields/class.fluent-group-field.php:246
+#: classes/fields/class.fluent-group-field.php:295
+#: classes/fields/class.fluent-group-field.php:333
+#: classes/fields/class.fluent-group-field.php:380
+msgid "Field type not registered!"
+msgstr ""
+
+#: classes/class.fluent-options-user.php:184
+msgid "You do not have permission to edit this user."
+msgstr ""
+
+#: classes/class.fluent-options-user.php:214
+msgid "User Settings Saved."
+msgstr ""
+
+#: classes/class.fluent-options.php:145
+msgid "This option is required."
+msgstr ""
+
+#: classes/class.fluent-options.php:490
+msgid "Are you sure?"
+msgstr ""
+
+#: classes/class.fluent-options.php:520
+msgid "Options Layout"
+msgstr ""
+
+#: classes/class.fluent-options.php:521
+msgid "Style:"
+msgstr ""
+
+#: classes/class.fluent-options.php:523
+msgid "Standard"
+msgstr ""
+
+#: classes/class.fluent-options.php:526
+msgid "Block"
+msgstr ""
+
+#: classes/class.fluent-options.php:636
+msgid "dev description"
+msgstr ""
+
+#: classes/class.fluent-options.php:639
+msgid "Options Object"
+msgstr ""
+
+#: classes/class.fluent-options.php:640 classes/class.fluent-options.php:644
+msgid "Options Object Description"
+msgstr ""
+
+#: classes/class.fluent-options.php:649
+msgid "Options Field Type Data"
+msgstr ""
+
+#: classes/class.fluent-options.php:650 classes/class.fluent-options.php:654
+msgid "Options Field Type Data Description"
+msgstr ""
+
+#: classes/class.fluent-options.php:659 classes/class.fluent-page.php:69
+#: classes/class.fluent-page.php:70 example-usage.php:1004
+#: example-usage.php:1005
+msgid "Options"
+msgstr ""
+
+#: classes/class.fluent-options.php:660 classes/class.fluent-options.php:664
+#: classes/class.fluent-options.php:674
+msgid "Options Description"
+msgstr ""
+
+#: classes/class.fluent-options.php:669
+msgid "Options Schema"
+msgstr ""
+
+#: classes/class.fluent-options.php:670
+msgid "Options Schema Description"
+msgstr ""
+
+#: classes/class.fluent-options.php:679
+msgid "Options Default Values"
+msgstr ""
+
+#: classes/class.fluent-options.php:680 classes/class.fluent-options.php:684
+msgid "Options Default Values Description"
+msgstr ""
+
+#: classes/class.fluent-options.php:799
+msgid "This section requires a role of [role]."
+msgstr ""
+
+#: classes/class.fluent-options.php:805
+msgid "This section requires the [cap] capability."
+msgstr ""
+
+#: classes/class.fluent-options.php:814
+msgid "This field requires a role of [role]."
+msgstr ""
+
+#: classes/class.fluent-options.php:820
+msgid "This field requires the [cap] capability."
+msgstr ""
+
+#: classes/class.fluent-post-type.php:87 classes/class.fluent-post-type.php:90
+#: example-usage.php:1105 example-usage.php:1108
+msgid "%s updated."
+msgstr ""
+
+#: classes/class.fluent-post-type.php:88 example-usage.php:1106
+msgid "Custom field updated."
+msgstr ""
+
+#: classes/class.fluent-post-type.php:89 example-usage.php:1107
+msgid "Custom field deleted."
+msgstr ""
+
+#: classes/class.fluent-post-type.php:91 example-usage.php:1109
+msgid "%s restored to revision from %s"
+msgstr ""
+
+#: classes/class.fluent-post-type.php:92 example-usage.php:1110
+msgid "%s published."
+msgstr ""
+
+#: classes/class.fluent-post-type.php:93 example-usage.php:1111
+msgid "%s saved."
+msgstr ""
+
+#: classes/class.fluent-post-type.php:94 example-usage.php:1112
+msgid "%s submitted."
+msgstr ""
+
+#: classes/class.fluent-post-type.php:95 example-usage.php:1113
+msgid "%s scheduled for: <strong>%s</strong>."
+msgstr ""
+
+#: classes/class.fluent-post-type.php:96 example-usage.php:1114
+msgid "%s draft updated."
+msgstr ""
+
+#: classes/class.fluent-post-type.php:124
+#: classes/class.fluent-post-type.php:126 classes/class.fluent-taxonomy.php:91
+#: example-usage.php:1064 example-usage.php:1066 example-usage.php:1139
+msgid "%ss"
+msgstr ""
+
+#: classes/class.fluent-post-type.php:127 example-usage.php:1067
+msgid "%s"
+msgstr ""
+
+#: classes/class.fluent-post-type.php:128 example-usage.php:1068
+msgid "Add New"
+msgstr ""
+
+#: classes/class.fluent-post-type.php:129 classes/class.fluent-taxonomy.php:101
+#: example-usage.php:1069 example-usage.php:1149
+msgid "Add New %s"
+msgstr ""
+
+#: classes/class.fluent-post-type.php:130 example-usage.php:1070
+msgid "New %s"
+msgstr ""
+
+#: classes/class.fluent-post-type.php:131 classes/class.fluent-taxonomy.php:98
+#: example-usage.php:1071 example-usage.php:1146
+msgid "Edit %s"
+msgstr ""
+
+#: classes/class.fluent-post-type.php:132 classes/class.fluent-taxonomy.php:99
+#: example-usage.php:1072 example-usage.php:1147
+msgid "View %s"
+msgstr ""
+
+#: classes/class.fluent-post-type.php:133 classes/class.fluent-taxonomy.php:95
+#: example-usage.php:1073 example-usage.php:1143
+msgid "All %ss"
+msgstr ""
+
+#: classes/class.fluent-post-type.php:134 classes/class.fluent-taxonomy.php:93
+#: example-usage.php:1074 example-usage.php:1141
+msgid "Search %ss"
+msgstr ""
+
+#: classes/class.fluent-post-type.php:135 example-usage.php:1075
+msgid "Parent %ss:"
+msgstr ""
+
+#: classes/class.fluent-post-type.php:136 example-usage.php:1076
+msgid "No %ss found."
+msgstr ""
+
+#: classes/class.fluent-post-type.php:137 example-usage.php:1077
+msgid "No %ss found in Trash."
+msgstr ""
+
+#: classes/class.fluent-post-type.php:357
+#. translators: %s: date and time of the revision
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: classes/class.fluent-post-type.php:365
+msgid "View"
+msgstr ""
+
+#: classes/class.fluent-post-type.php:371
+msgid "Preview"
+msgstr ""
+
+#: classes/class.fluent-support.php:43 example-usage.php:1186
+msgid "Support Request"
+msgstr ""
+
+#: classes/class.fluent-support.php:51 example-usage.php:1194
+msgid "Your message has been sent successfully."
+msgstr ""
+
+#: classes/class.fluent-support.php:83
+msgid "Nonce Failure, please reload the page and try again."
+msgstr ""
+
+#: classes/class.fluent-support.php:87
+msgid "Please enter your email address."
+msgstr ""
+
+#: classes/class.fluent-support.php:91
+msgid "Please enter a message to be sent."
+msgstr ""
+
+#: classes/class.fluent-support.php:176
+msgid "Email Address"
+msgstr ""
+
+#: classes/class.fluent-support.php:176
+msgid "Email"
+msgstr ""
+
+#: classes/class.fluent-support.php:177
+msgid "Message"
+msgstr ""
+
+#: classes/class.fluent-support.php:177
+msgid "Enter your message"
+msgstr ""
+
+#: classes/class.fluent-support.php:180
+msgid "WordPress Details"
+msgstr ""
+
+#: classes/class.fluent-support.php:181
+msgid "Active Plugins"
+msgstr ""
+
+#: classes/class.fluent-support.php:182
+msgid "Active Theme"
+msgstr ""
+
+#: classes/class.fluent-support.php:183
+msgid "PHP Details"
+msgstr ""
+
+#: classes/class.fluent-support.php:184
+msgid "Server Details"
+msgstr ""
+
+#: classes/class.fluent-support.php:186
+msgid "Send"
+msgstr ""
+
+#: classes/class.fluent-taxonomy.php:94 example-usage.php:1142
+msgid "Popular %ss"
+msgstr ""
+
+#: classes/class.fluent-taxonomy.php:96 example-usage.php:1144
+msgid "Parent %ss"
+msgstr ""
+
+#: classes/class.fluent-taxonomy.php:97 example-usage.php:1145
+msgid "Parent %s:"
+msgstr ""
+
+#: classes/class.fluent-taxonomy.php:100 example-usage.php:1148
+msgid "Update %s"
+msgstr ""
+
+#: classes/class.fluent-taxonomy.php:102 example-usage.php:1150
+msgid "Add New %s Name"
+msgstr ""
+
+#: classes/class.fluent-taxonomy.php:103 example-usage.php:1151
+msgid "Seperate %ss with commas"
+msgstr ""
+
+#: classes/class.fluent-taxonomy.php:104 example-usage.php:1152
+msgid "Add or remove %ss"
+msgstr ""
+
+#: classes/class.fluent-taxonomy.php:105 example-usage.php:1153
+msgid "Choose from the most used %ss"
+msgstr ""
+
+#: classes/class.fluent-taxonomy.php:106 example-usage.php:1154
+msgid "No %ss found"
+msgstr ""
+
+#: classes/fields/class.fluent-background-field.php:34
+#: classes/fields/class.fluent-background-field.php:36
+#: classes/fields/class.fluent-media-field.php:28
+#: classes/fields/class.fluent-media-field.php:30
+msgid "Select Media"
+msgstr ""
+
+#: classes/fields/class.fluent-background-field.php:35
+#: classes/fields/class.fluent-media-field.php:29
+msgid "Media Library"
+msgstr ""
+
+#: classes/fields/class.fluent-background-field.php:116
+msgid "Transparent"
+msgstr ""
+
+#: classes/fields/class.fluent-background-field.php:140
+#: classes/fields/class.fluent-media-field.php:88
+msgid "Remove"
+msgstr ""
+
+#: classes/fields/class.fluent-background-field.php:141
+#: classes/fields/class.fluent-media-field.php:89
+msgid "Edit"
+msgstr ""
+
+#: classes/fields/class.fluent-background-field.php:150
+msgid "Background Attachment"
+msgstr ""
+
+#: classes/fields/class.fluent-background-field.php:157
+msgid "Background Position"
+msgstr ""
+
+#: classes/fields/class.fluent-background-field.php:166
+msgid "Background Size"
+msgstr ""
+
+#: classes/fields/class.fluent-background-field.php:173
+msgid "Background Repeat"
+msgstr ""
+
+#: classes/fields/class.fluent-export-field.php:28
+msgid "Download Export File"
+msgstr ""
+
+#: classes/fields/class.fluent-export-field.php:70
+msgid "An unknown error occured!"
+msgstr ""
+
+#: classes/fields/class.fluent-export-field.php:87
+msgid "The export option will become available once you save this form."
+msgstr ""
+
+#: classes/fields/class.fluent-font-field.php:132
+msgid "System Fonts"
+msgstr ""
+
+#: classes/fields/class.fluent-font-field.php:145
+msgid "Google Fonts"
+msgstr ""
+
+#: classes/fields/class.fluent-font-field.php:189
+msgid "Font Family"
+msgstr ""
+
+#: classes/fields/class.fluent-font-field.php:195
+msgid "Font Size"
+msgstr ""
+
+#: classes/fields/class.fluent-font-field.php:198
+msgid "Line Height"
+msgstr ""
+
+#: classes/fields/class.fluent-gallery-field.php:28
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: classes/fields/class.fluent-gallery-field.php:29
+msgid "Delete Gallery"
+msgstr ""
+
+#: classes/fields/class.fluent-group-field.php:39
+msgid "Add Row"
+msgstr ""
+
+#: classes/fields/class.fluent-import-field.php:73
+msgid "Settings Imported."
+msgstr ""
+
+#: classes/fields/class.fluent-import-field.php:77
+msgid "Settings Not Imported. We could not locate the file."
+msgstr ""
+
+#: classes/fields/class.fluent-import-field.php:82
+msgid "Settings Not Imported. We could not access the file."
+msgstr ""
+
+#: classes/fields/class.fluent-import-field.php:86
+msgid "Settings Not Imported. The file didnt contain import data."
+msgstr ""
+
+#: classes/fields/class.fluent-import-field.php:99
+msgid "Select Import File"
+msgstr ""
+
+#: classes/fields/class.fluent-import-field.php:100
+msgid "Import"
+msgstr ""
+
+#: classes/fields/class.fluent-import-field.php:101
+msgid "Import This File"
+msgstr ""
+
+#: classes/fields/class.fluent-search-field.php:40
+msgid "Type to search"
+msgstr ""
+
+#: classes/fields/class.fluent-switch-field.php:29
+msgid "Off"
+msgstr ""
+
+#: classes/fields/class.fluent-switch-field.php:30
+msgid "On"
+msgstr ""
+
+#: example-usage.php:17
+msgid "Text Fields"
+msgstr ""
+
+#: example-usage.php:18
+msgid "These are the basic text field types found in the options framework"
+msgstr ""
+
+#: example-usage.php:25 example-usage.php:34 example-usage.php:41
+#: example-usage.php:478 example-usage.php:507 example-usage.php:522
+msgid "Text Field"
+msgstr ""
+
+#: example-usage.php:26 example-usage.php:186 example-usage.php:192
+#: example-usage.php:199 example-usage.php:224 example-usage.php:239
+#: example-usage.php:245 example-usage.php:251 example-usage.php:257
+#: example-usage.php:263 example-usage.php:273 example-usage.php:283
+#: example-usage.php:295 example-usage.php:319 example-usage.php:336
+#: example-usage.php:352 example-usage.php:359 example-usage.php:376
+#: example-usage.php:382 example-usage.php:400 example-usage.php:419
+#: example-usage.php:439 example-usage.php:459 example-usage.php:479
+#: example-usage.php:508 example-usage.php:523 example-usage.php:538
+#: example-usage.php:553 example-usage.php:568 example-usage.php:583
+#: example-usage.php:598 example-usage.php:613 example-usage.php:628
+#: example-usage.php:643 example-usage.php:658 example-usage.php:712
+#: example-usage.php:728 example-usage.php:734
+msgid "This is a sub title"
+msgstr ""
+
+#: example-usage.php:28
+msgid "This is just a text field."
+msgstr ""
+
+#: example-usage.php:35 example-usage.php:42
+msgid "With Custom CSS Class"
+msgstr ""
+
+#: example-usage.php:37
+msgid "This text field has the <code>regular-text</code> class applied."
+msgstr ""
+
+#: example-usage.php:44
+msgid "This text field has the <code>small-text</code> class applied."
+msgstr ""
+
+#: example-usage.php:48
+msgid "Email Field"
+msgstr ""
+
+#: example-usage.php:49
+msgid "HTML5 email field"
+msgstr ""
+
+#: example-usage.php:50
+msgid "This text field has the <code>type=\"email\"</code> input attribute."
+msgstr ""
+
+#: example-usage.php:54
+msgid "Url Field"
+msgstr ""
+
+#: example-usage.php:55
+msgid "HTML5 url field"
+msgstr ""
+
+#: example-usage.php:56
+msgid "This text field has the <code>type=\"url\"</code> input attribute."
+msgstr ""
+
+#: example-usage.php:60 example-usage.php:537 example-usage.php:552
+#: example-usage.php:567 example-usage.php:582 example-usage.php:597
+#: example-usage.php:612
+msgid "Number Field"
+msgstr ""
+
+#: example-usage.php:61
+msgid "HTML5 Number Input"
+msgstr ""
+
+#: example-usage.php:65
+msgid "This is a simple HTML5 number field."
+msgstr ""
+
+#: example-usage.php:69
+msgid "Password Field"
+msgstr ""
+
+#: example-usage.php:70
+msgid "This is a password field"
+msgstr ""
+
+#: example-usage.php:71
+msgid "Hey this is a custom required message!"
+msgstr ""
+
+#: example-usage.php:72
+msgid "The value will be saved as plain text."
+msgstr ""
+
+#: example-usage.php:76 example-usage.php:627 example-usage.php:642
+#: example-usage.php:657
+msgid "Textarea Field"
+msgstr ""
+
+#: example-usage.php:77
+msgid "Multiline inputs"
+msgstr ""
+
+#: example-usage.php:80
+msgid "This is just a textarea field."
+msgstr ""
+
+#: example-usage.php:87
+msgid "Choice Fields"
+msgstr ""
+
+#: example-usage.php:88
+msgid ""
+"These are the basic HTML choice field types found in the options framework "
+"(radio, checkbox, select)"
+msgstr ""
+
+#: example-usage.php:95 example-usage.php:106 example-usage.php:418
+msgid "Radio Field"
+msgstr ""
+
+#: example-usage.php:96 example-usage.php:119 example-usage.php:206
+msgid "Choose a single answer"
+msgstr ""
+
+#: example-usage.php:97 example-usage.php:108
+msgid "This is a very basic yes/no field type, but it can have many more options."
+msgstr ""
+
+#: example-usage.php:99 example-usage.php:110 example-usage.php:122
+#: example-usage.php:133 example-usage.php:154 example-usage.php:166
+#: example-usage.php:403 example-usage.php:422 example-usage.php:442
+#: example-usage.php:462
+msgid "Yes"
+msgstr ""
+
+#: example-usage.php:100 example-usage.php:111 example-usage.php:123
+#: example-usage.php:134 example-usage.php:155 example-usage.php:168
+#: example-usage.php:405 example-usage.php:424 example-usage.php:444
+#: example-usage.php:464
+msgid "No"
+msgstr ""
+
+#: example-usage.php:107 example-usage.php:130
+msgid "Block level radio inputs"
+msgstr ""
+
+#: example-usage.php:118 example-usage.php:129 example-usage.php:140
+#: example-usage.php:381 example-usage.php:399
+msgid "Checkbox Field"
+msgstr ""
+
+#: example-usage.php:120 example-usage.php:131 example-usage.php:142
+msgid ""
+"This is a very basic checkbox field type, it can have a single or multiple "
+"checkboxes."
+msgstr ""
+
+#: example-usage.php:141
+msgid "Single Checkbox"
+msgstr ""
+
+#: example-usage.php:144
+msgid "I Agree to terms of service"
+msgstr ""
+
+#: example-usage.php:150 example-usage.php:162 example-usage.php:438
+#: example-usage.php:458
+msgid "Select Field"
+msgstr ""
+
+#: example-usage.php:151
+msgid "Simple Select Field"
+msgstr ""
+
+#: example-usage.php:152
+msgid "This is a very basic select field type."
+msgstr ""
+
+#: example-usage.php:157
+msgid "Please choose .."
+msgstr ""
+
+#: example-usage.php:163
+msgid "Multiple Select Field"
+msgstr ""
+
+#: example-usage.php:164
+msgid "This is a very basic select field type with multiple options selectable."
+msgstr ""
+
+#: example-usage.php:167 example-usage.php:404 example-usage.php:423
+#: example-usage.php:443 example-usage.php:463
+msgid "Maybe"
+msgstr ""
+
+#: example-usage.php:178
+msgid "Advanced Fields"
+msgstr ""
+
+#: example-usage.php:179
+msgid "These are the advanced field types found in the options framework"
+msgstr ""
+
+#: example-usage.php:185 example-usage.php:318 example-usage.php:335
+#: example-usage.php:351 example-usage.php:358 example-usage.php:375
+msgid "Editor Field"
+msgstr ""
+
+#: example-usage.php:187 example-usage.php:320 example-usage.php:337
+#: example-usage.php:353 example-usage.php:360
+msgid "This is just a default WordPress editor field."
+msgstr ""
+
+#: example-usage.php:191
+msgid "Color Field"
+msgstr ""
+
+#: example-usage.php:193
+msgid "This is just a default WordPress color picker field."
+msgstr ""
+
+#: example-usage.php:198
+msgid "Date Field"
+msgstr ""
+
+#: example-usage.php:200
+msgid "This is just a default jQuery UI datepicker field."
+msgstr ""
+
+#: example-usage.php:205
+msgid "Radio Image Field"
+msgstr ""
+
+#: example-usage.php:207
+msgid "This is a simple radio field with images for selection instead."
+msgstr ""
+
+#: example-usage.php:223 example-usage.php:229
+msgid "Media Field"
+msgstr ""
+
+#: example-usage.php:225 example-usage.php:234
+msgid "This opens up and allows you to select media items from the library."
+msgstr ""
+
+#: example-usage.php:230
+msgid "With Custom Text parts"
+msgstr ""
+
+#: example-usage.php:231
+msgid "Hey custom upload button text!"
+msgstr ""
+
+#: example-usage.php:232
+msgid "Hey a custom title!"
+msgstr ""
+
+#: example-usage.php:233
+msgid "Hey a custom select button!"
+msgstr ""
+
+#: example-usage.php:238
+msgid "Gallery Field"
+msgstr ""
+
+#: example-usage.php:240
+msgid "This opens up and allows you to create galleries from the library."
+msgstr ""
+
+#: example-usage.php:244
+msgid "Background Field"
+msgstr ""
+
+#: example-usage.php:246
+msgid "This is a background field with all available options."
+msgstr ""
+
+#: example-usage.php:250
+msgid "Switch Field"
+msgstr ""
+
+#: example-usage.php:252
+msgid "This lets you select a yes/no value."
+msgstr ""
+
+#: example-usage.php:256
+msgid "Font Field"
+msgstr ""
+
+#: example-usage.php:258
+msgid "This allows you to select a font and styles."
+msgstr ""
+
+#: example-usage.php:262
+msgid "Code Editor Field (css)"
+msgstr ""
+
+#: example-usage.php:264
+msgid ""
+"This field is generated using the Ace code editor library. You can choose "
+"themes per instance.<br/>Modes available: "
+"<code>css|html|javascript|json|less|markdown|php|plain_text|sass|scss|text</"
+"code>"
+msgstr ""
+
+#: example-usage.php:272
+msgid "Code Editor Field (js)"
+msgstr ""
+
+#: example-usage.php:274
+msgid ""
+"This field is generated using the Ace code editor library. With the "
+"<code>chrome</code> theme set. See all themes here: <a "
+"href=\"https://github.com/ajaxorg/ace/tree/master/lib/ace/theme\" "
+"target=\"_blank\">https://github.com/ajaxorg/ace/tree/master/lib/ace/theme</"
+"a>"
+msgstr ""
+
+#: example-usage.php:282
+msgid "Custom Field"
+msgstr ""
+
+#: example-usage.php:284
+msgid "Cool custom field."
+msgstr ""
+
+#: example-usage.php:294
+msgid "Support Field"
+msgstr ""
+
+#: example-usage.php:296
+msgid ""
+"Here we are using the custom field type to render an instance of the "
+"<code>Fluent_Support</code> class."
+msgstr ""
+
+#: example-usage.php:310
+msgid "Section disabled by role"
+msgstr ""
+
+#: example-usage.php:311
+msgid "These fields are in a blocked section by role"
+msgstr ""
+
+#: example-usage.php:327
+msgid "Section disabled by capability"
+msgstr ""
+
+#: example-usage.php:328
+msgid "These fields are in a blocked section by capability"
+msgstr ""
+
+#: example-usage.php:344
+msgid "Fields disabled by roles and capabilities"
+msgstr ""
+
+#: example-usage.php:345
+msgid "These fields are blocked by roles and capabilities"
+msgstr ""
+
+#: example-usage.php:368
+msgid "Fields disabled by other field values"
+msgstr ""
+
+#: example-usage.php:369
+msgid "These fields are blocked by other field values"
+msgstr ""
+
+#: example-usage.php:377
+msgid "Enter the word <code>match</code> anywhere to enable the next field."
+msgstr ""
+
+#: example-usage.php:383
+msgid "Check the box to enable the next field."
+msgstr ""
+
+#: example-usage.php:385
+msgid "Enable the next field."
+msgstr ""
+
+#: example-usage.php:401
+msgid ""
+"Check the boxes <code>Yes</code> and <code>No</code> to enable the next "
+"field."
+msgstr ""
+
+#: example-usage.php:420
+msgid "Select <code>Yes</code> to enable the next field."
+msgstr ""
+
+#: example-usage.php:440
+msgid ""
+"You must select <code>Yes</code> here and <code>No</code> below or "
+"<code>Maybe</code> and <code>Maybe</code> to enable the next field."
+msgstr ""
+
+#: example-usage.php:460
+msgid ""
+"You must select <code>No</code> here and <code>Yes</code> above or "
+"<code>Maybe</code> and <code>Maybe</code> to enable the next field."
+msgstr ""
+
+#: example-usage.php:480
+msgid ""
+"This field is only shown if the above two selects have <code>Yes</code> and "
+"<code>No</code> or <code>Maybe</code> and <code>Maybe</code> "
+"selected.<br/>To enable the next field this field must contain the word "
+"<code>WordPress</code>."
+msgstr ""
+
+#: example-usage.php:509
+msgid "To enable the next field this field must start with <code>WordPress</code>"
+msgstr ""
+
+#: example-usage.php:524
+msgid "To enable the next field this field must end with <code>WordPress</code>."
+msgstr ""
+
+#: example-usage.php:539
+msgid "To enable the next field this field must be less than 10."
+msgstr ""
+
+#: example-usage.php:554
+msgid "To enable the next field this field must be less than or equal to 10."
+msgstr ""
+
+#: example-usage.php:569
+msgid "To enable the next field this field must be more than 10."
+msgstr ""
+
+#: example-usage.php:584
+msgid "To enable the next field this field must be more than or equal to 10."
+msgstr ""
+
+#: example-usage.php:599
+msgid "To enable the next field this field must be between 10 and 20."
+msgstr ""
+
+#: example-usage.php:614
+msgid "To enable the next field this field must NOT be between 10 and 20."
+msgstr ""
+
+#: example-usage.php:629
+msgid ""
+"To enable the next field this field must NOT contain the word "
+"<code>WordPress</code>."
+msgstr ""
+
+#: example-usage.php:644
+msgid "To enable the next field this field must NOT be empty."
+msgstr ""
+
+#: example-usage.php:659
+msgid "This is the last condition field in the list."
+msgstr ""
+
+#: example-usage.php:675
+msgid "Info Fields"
+msgstr ""
+
+#: example-usage.php:676
+msgid "These are the information field types found in the options framework"
+msgstr ""
+
+#: example-usage.php:683 example-usage.php:691 example-usage.php:697
+#: example-usage.php:704 example-usage.php:711
+msgid "Info Field"
+msgstr ""
+
+#: example-usage.php:684
+msgid "This is a information field."
+msgstr ""
+
+#: example-usage.php:692
+msgid "This is a information field with notice class applied and no title."
+msgstr ""
+
+#: example-usage.php:698
+msgid "This is a information field with warning class applied and no icon."
+msgstr ""
+
+#: example-usage.php:705
+msgid "This is a information field with error class applied."
+msgstr ""
+
+#: example-usage.php:713
+msgid "This is a information field with success class applied."
+msgstr ""
+
+#: example-usage.php:720
+msgid "Import/Export Fields"
+msgstr ""
+
+#: example-usage.php:721
+msgid "These are the import/export field types found in the options framework"
+msgstr ""
+
+#: example-usage.php:727
+msgid "Import Field"
+msgstr ""
+
+#: example-usage.php:729
+msgid "This is the import field."
+msgstr ""
+
+#: example-usage.php:733
+msgid "Export Field"
+msgstr ""
+
+#: example-usage.php:735
+msgid "This is the export field."
+msgstr ""
+
+#: example-usage.php:742
+msgid "Group Fields"
+msgstr ""
+
+#: example-usage.php:743
+msgid ""
+"Group Fields are one of the most important features of this framework. "
+"Groups allow to create nested, repeatable, sortable sub fields. You are "
+"simply limited by your imagination (and physical screensize, after 2 levels "
+"you run out of alot of space)."
+msgstr ""
+
+#: example-usage.php:1016
+msgid "Custom Save"
+msgstr ""
+
+#: example-usage.php:1017
+msgid "Custom Saved Message"
+msgstr ""
+
+#: example-usage.php:1018
+msgid "Custom Restore Message"
+msgstr ""
+
+#: example-usage.php:1019
+msgid "custom message for the save box"
+msgstr ""
+
+#: example-usage.php:1216
+msgid "Fluent Support Form"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Fluent Framework"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://no-half-pixels.github.io/Fluent-Framework/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Fluent Framework is a WordPress Plugin/Framework which allows you to create "
+"and manage options pages, meta boxes, author meta, taxonomy meta and much "
+"more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "No Half Pixels Ltd"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://nohalfpixels.com"
+msgstr ""

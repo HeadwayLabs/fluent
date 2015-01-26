@@ -1,0 +1,42 @@
+.fluent-support-form{
+	margin: 10px 0px;
+	.fluent-support-form-row{
+		margin-bottom: 10px;
+		.fluent-support-form-label{
+			display: block;
+			margin-bottom: 6px;
+		}
+		&.response{
+			img{
+				display: none;
+				margin: 6px auto;
+				width: 20px;
+				height: 20px;
+			}
+			ul{
+				margin: 0px;
+				padding: 0px;
+				list-style-type: none;
+				li{
+					list-style: none;
+					margin: 4px 0px;
+					padding: 4px 12px;
+					background-color: #fff;
+					-webkit-box-shadow: 0 1px 1px 1px rgba(0,0,0,.1);
+					box-shadow: 0 1px 1px 1px rgba(0,0,0,.1);
+					border-left: 4px solid #fff;
+					&.success{
+						border-left: 4px solid #7ad03a;
+					}
+					&.error{
+						border-left: 4px solid #dd3d36;
+					}
+					p{
+						margin: .5em 0;
+						padding: 2px;
+					}
+				}
+			}
+		}
+	}
+}

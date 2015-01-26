@@ -1,0 +1,28 @@
+{
+  "name": "fluent-framework",
+  "version": "1.0.7",
+  "description": "Fluent Framework is a WordPress Plugin/Framework which allows you to create and manage options pages, meta boxes, author meta, taxonomy meta and much more.",
+  "main": "avm.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://no12pixels@bitbucket.org/nohalfpixels/fluent-framework.git"
+  },
+  "keywords": [
+    "wordpress"
+  ],
+  "author": "No Half Pixels Ltd",
+  "license": "Envato",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-sass": "^0.7.3",
+    "grunt-contrib-uglify": "~0.3.3",
+    "grunt-phpdocumentor": "~0.4.1",
+    "grunt-po2mo": "~0.1.0",
+    "grunt-wp-i18n": "~0.4.0"
+  }
+}

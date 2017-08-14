@@ -218,7 +218,7 @@ class Fluent_Options extends Fluent_Base{
         
         $out = array(); 
         foreach($fields as $field_key => $field){
-            $options[$field_key] = (isset($options[$field_key])) ? $options[$field_key] : '';
+            $options[$field_key] = (isset($options[$field_key])) ? $options[$field_key] : array();
             $field_key = sanitize_key($field_key);
             $field['option_name'] = $this->args['option_name'];
             $field['id'] = $field_key;

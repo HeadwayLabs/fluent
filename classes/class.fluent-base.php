@@ -70,7 +70,10 @@ class Fluent_Base{
 		foreach ( $a as $k => &$v ) {
 			if ( is_array( $v ) && isset( $r[ $k ] ) ) {
 				$r[ $k ] = self::parse_args( $v, $r[ $k ] );
+			} elseif( is_array($r) ) {
+				$r[ $k ] = $v;
 			} else {
+				$r = array();
 				$r[ $k ] = $v;
 			}
 		}

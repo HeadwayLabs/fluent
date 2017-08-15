@@ -222,7 +222,7 @@
         //field vallidation
         $(document).on('fluent/validate/text fluent/validate/password fluent/validate/email fluent/validate/url fluent/validate/number fluent/validate/textarea fluent/validate/date fluent/validate/media fluent/validate/gallery', function(e, id, data){
             var msg = data.msg;
-            if(!$.trim($('.options-table #' + id).val()).length){
+            if(!$.trim($('.options-table #field-' + id + ' #' + id).val()).length){
                 if(!$('.options-table #' + id).closest('tr').hasClass('options-required')){
                     $('.options-table #' + id).closest('tr').addClass('options-required');
                     $('.options-table #' + id).closest('td').append('<p class="description options-error">'+msg+'</p>');

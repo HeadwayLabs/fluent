@@ -93,7 +93,7 @@
             $(document).trigger('fluent/post_validate');
 
             if($.fluent.passes !== true){
-                $('#publish.button-primary-disabled').removeClass('button-primary-disabled');
+                $('#publish.disabled').removeClass('disabled');
                 $('#publishing-action .spinner').hide();
                 $(document).trigger('fluent/validation_failed');
                 $('tr.options-required input').first().focus();
